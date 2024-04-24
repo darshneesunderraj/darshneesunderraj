@@ -1,6 +1,6 @@
 - Hi, I’m @darshneesunderraj
 - I’m currently learning AI and Graphic Designing
-- [Click here and check out my Portfolio!](https://darshneesunderraj.github.io/PORTIFOLIO/)
+- [Click here and check out my Portfolio!](https://darshneesunderraj.github.io/PORTFOLIO/)
 - [Reach me here!](darshneesunderraj@karunya.edu.in)
 - [LinkedIn](linkedin.com/in/darshnee-sunderraj-b31987249/)
 
