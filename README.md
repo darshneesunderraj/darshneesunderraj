@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi , I'm Darshnee!
 
-<!--
-**darshneesunderraj/darshneesunderraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Final-year CSE student. 
+🛠️ Exploring low-code, automation & cloud platforms  
+🌟 ServiceNow enthusiast | Learning RPA + AI/ML
 
-Here are some ideas to get you started:
+✨ I love:
+- Simplifying complex stuff with smart tech
+- Late-night coding with coffee ☕
+- Building beautiful, usable apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning. Always building. Always growing.
+
+📫 Let’s connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
+
+---
+
+
+![Darshnee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+
+
