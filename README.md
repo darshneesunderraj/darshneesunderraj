@@ -17,7 +17,7 @@
 ---
 
 
-![Darshnee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Darshnee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshneesunderraj&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshneesunderraj&layout=compact&theme=tokyonight&hide_border=true)
 
 
