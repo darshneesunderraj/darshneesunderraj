@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Darshnee!
-💻 Computer Science student passionate about AI, automation, and tech  <br>📊 Currently diving into ServiceNow, data analysis, and RPA  <br>🌟 Exploring low-code/no-code tools to build faster & smarter  <br>🎯 Always experimenting with tools that simplify daily life  <br>📚 Lifelong learner who loves to connect the dots between tech & real-world problems  <br>☕ Can be found coding at midnight with coffee & music on  
+💻 Computer Science student passionate about AI, automation, and tech  <br>📊 Currently diving into ServiceNow, data analysis, and RPA  <br>🌟 Exploring low-code/no-code tools to build faster & smarter  <br>🎯 Always experimenting with tools that simplify daily life. <br>☕ Can be found coding at midnight with coffee & music on  
 
 
 ## 🌐 Socials:
