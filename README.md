@@ -1,23 +1,13 @@
-### Hi , I'm Darshnee!
+# 👋 Hi, I'm Darshnee!
 
-💻 Final-year CSE student. 
-🛠️ Exploring low-code, automation & cloud platforms  
-🌟 ServiceNow enthusiast | Learning RPA + AI/ML
+💻 Computer Science student passionate about AI, automation, and impactful tech  
+🛠️ Building cool projects in AI, automation, and web development  
+🌱 #learninginpublic and documenting it all in my [digital lab notebook](#)  
+📊 Currently diving into ServiceNow, data analysis, and RPA  
 
-✨ I love:
-- Simplifying complex stuff with smart tech
-- Late-night coding with coffee ☕
-- Building beautiful, usable apps
-
-📚 Always learning. Always building. Always growing.
-
-📫 Let’s connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-Let’s%20Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshnee-sunderraj-b31987249/)
 
 ---
 
-
-![Darshnee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshneesunderraj&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshneesunderraj&layout=compact&theme=tokyonight&hide_border=true)
-
+![Darshnee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshneesunderraj&show_icons=true&theme=radical&hide_border=true)
 
