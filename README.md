@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darshnee!
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI4ODliMDRmZjM1NjYwMzNiOTc1ZWVjZDNkODhmNDQxOWEyYWM0MyZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="280" align="right"> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZtODNqZ3NubzE0ZmZhaTdnY20yc2hiNHl4amhlNWk5a3hhcjZxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FGmFvB5lPoBMAgtlQ/giphy.gif" width="450" align="right" />
 
 💻 Computer Science student passionate about AI, automation, and tech  <br>📊 Currently diving into ServiceNow, data analysis, and RPA  <br>🌟 Exploring low-code/no-code tools to build faster & smarter  <br>🎯 Always experimenting with tools that simplify daily life. <br>☕ Can be found coding at midnight with coffee & music on  
 
