@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Darshnee!
 
 🎀 **A little corner of the internet I call mine:**  
-🌐 [darshneesunderraj.vercel.app](https://portfolio-darshneesunderraj.vercel.app)
+🌐 [darshneesunderraj.vercel.app](https://darshneesunderraj.vercel.app)
 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZtODNqZ3NubzE0ZmZhaTdnY20yc2hiNHl4amhlNWk5a3hhcjZxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FGmFvB5lPoBMAgtlQ/giphy.gif" width="350" align="right" />
